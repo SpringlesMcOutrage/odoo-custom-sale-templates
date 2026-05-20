@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_custom_template_user,custom.template.user,model_custom_template,sales_team.group_sale_salesman,1,1,1,0
+access_custom_template_manager,custom.template.manager,model_custom_template,sales_team.group_sale_manager,1,1,1,1
+access_custom_template_accountant,custom.template.accountant,model_custom_template,account.group_account_invoice,1,1,1,0
+access_custom_template_account_manager,custom.template.account.manager,model_custom_template,account.group_account_manager,1,1,1,1

@@ -1,0 +1,125 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * custom_sale_templates
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-21 00:00+0000\n"
+"PO-Revision-Date: 2026-05-21 00:00+0000\n"
+"Last-Translator: deep <>\n"
+"Language-Team: German\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Template Name"
+msgstr "Vorlagenname"
+
+msgid "Quotation / Sale Order"
+msgstr "Angebot / Verkaufsauftrag"
+
+msgid "Invoice"
+msgstr "Rechnung"
+
+msgid "Model"
+msgstr "Modell"
+
+msgid "Template Type"
+msgstr "Vorlagentyp"
+
+msgid "QWeb Code"
+msgstr "QWeb-Code"
+
+msgid "ODT File"
+msgstr "ODT-Datei"
+
+msgid "ODT Filename"
+msgstr "ODT-Dateiname"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Custom Template"
+msgstr "Benutzerdefinierte Vorlage"
+
+msgid "Select a custom template for printing"
+msgstr "Benutzerdefinierte Vorlage für den Druck auswählen"
+
+msgid "Select a custom template for printing the invoice"
+msgstr "Benutzerdefinierte Vorlage für den Rechnungsdruck auswählen"
+
+msgid "ODT template is not configured correctly"
+msgstr "ODT-Vorlage ist nicht korrekt konfiguriert"
+
+msgid "Custom Templates"
+msgstr "Benutzerdefinierte Vorlagen"
+
+msgid "Custom Template (QWeb)"
+msgstr "Benutzerdefinierte Vorlage (QWeb)"
+
+msgid "Custom Invoice (QWeb)"
+msgstr "Benutzerdefinierte Rechnung (QWeb)"
+
+msgid "Search Templates"
+msgstr "Vorlagen suchen"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Orders"
+msgstr "Aufträge"
+
+msgid "Invoices"
+msgstr "Rechnungen"
+
+msgid "Archived"
+msgstr "Archiviert"
+
+msgid "Group By"
+msgstr "Gruppieren nach"
+
+msgid "Create your first custom template"
+msgstr "Erstellen Sie Ihre erste benutzerdefinierte Vorlage"
+
+msgid "Supported documents:"
+msgstr "Unterstützte Dokumente:"
+
+msgid "Template types:"
+msgstr "Vorlagentypen:"
+
+msgid "Print Custom"
+msgstr "Benutzerdefiniert drucken"
+
+msgid "Standard (default template)"
+msgstr "Standard (Standardvorlage)"
+
+msgid "Available variables:"
+msgstr "Verfügbare Variablen:"
+
+msgid "Model check example:"
+msgstr "Beispiel zur Modellprüfung:"
+
+msgid "ODT template instructions:"
+msgstr "Anleitung für ODT-Vorlagen:"
+
+msgid "Upload the ODT template file"
+msgstr "ODT-Vorlagendatei hochladen"
+
+msgid "Use py3o variables in the template:"
+msgstr "py3o-Variablen in der Vorlage verwenden:"
+
+msgid "For sale.order:"
+msgstr "Für sale.order:"
+
+msgid "For account.move:"
+msgstr "Für account.move:"
+
+msgid "Amount to text function:"
+msgstr "Betrag-in-Text-Funktion:"

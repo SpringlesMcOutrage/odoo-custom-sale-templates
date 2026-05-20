@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="view_order_form_custom_template" model="ir.ui.view">
+        <field name="name">sale.order.form.custom.template</field>
+        <field name="model">sale.order</field>
+        <field name="inherit_id" ref="sale.view_order_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//field[@name='payment_term_id']" position="after">
+                <field name="custom_template_id"
+                       options="{'no_create': True, 'no_open': True}"
+                       placeholder="Standard (default template)"/>
+            </xpath>
+        </field>
+    </record>
+
+    <record id="view_order_form_custom_print_button_quotation" model="ir.ui.view">
+        <field name="name">sale.order.form.custom.print.button.quotation</field>
+        <field name="model">sale.order</field>
+        <field name="inherit_id" ref="sale.view_order_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//header/button[@name='action_quotation_send']" position="after">
+                <button name="action_print_custom_template"
+                        string="Print Custom"
+                        type="object"
+                        class="oe_highlight"
+                        invisible="state not in ['draft', 'sent']"/>
+            </xpath>
+        </field>
+    </record>
+
+    <record id="view_order_form_custom_print_button_order" model="ir.ui.view">
+        <field name="name">sale.order.form.custom.print.button.order</field>
+        <field name="model">sale.order</field>
+        <field name="inherit_id" ref="sale.view_order_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//header/button[@name='action_quotation_send']" position="after">
+                <button name="action_print_custom_template"
+                        string="Print Custom"
+                        type="object"
+                        invisible="state in ['draft', 'sent']"/>
+            </xpath>
+        </field>
+    </record>
+</odoo>

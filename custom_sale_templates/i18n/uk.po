@@ -1,0 +1,125 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * custom_sale_templates
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-21 00:00+0000\n"
+"PO-Revision-Date: 2026-05-21 00:00+0000\n"
+"Last-Translator: deep <>\n"
+"Language-Team: Ukrainian\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+msgid "Template Name"
+msgstr "Назва шаблону"
+
+msgid "Quotation / Sale Order"
+msgstr "Пропозиція / Замовлення"
+
+msgid "Invoice"
+msgstr "Інвойс"
+
+msgid "Model"
+msgstr "Модель"
+
+msgid "Template Type"
+msgstr "Тип шаблону"
+
+msgid "QWeb Code"
+msgstr "QWeb-код"
+
+msgid "ODT File"
+msgstr "ODT-файл"
+
+msgid "ODT Filename"
+msgstr "Назва ODT-файлу"
+
+msgid "Active"
+msgstr "Активний"
+
+msgid "Description"
+msgstr "Опис"
+
+msgid "Custom Template"
+msgstr "Кастомний шаблон"
+
+msgid "Select a custom template for printing"
+msgstr "Виберіть кастомний шаблон для друку"
+
+msgid "Select a custom template for printing the invoice"
+msgstr "Виберіть кастомний шаблон для друку інвойсу"
+
+msgid "ODT template is not configured correctly"
+msgstr "ODT-шаблон налаштований неправильно"
+
+msgid "Custom Templates"
+msgstr "Кастомні шаблони"
+
+msgid "Custom Template (QWeb)"
+msgstr "Кастомний шаблон (QWeb)"
+
+msgid "Custom Invoice (QWeb)"
+msgstr "Кастомний інвойс (QWeb)"
+
+msgid "Search Templates"
+msgstr "Пошук шаблонів"
+
+msgid "Name"
+msgstr "Назва"
+
+msgid "Orders"
+msgstr "Замовлення"
+
+msgid "Invoices"
+msgstr "Інвойси"
+
+msgid "Archived"
+msgstr "Архівовані"
+
+msgid "Group By"
+msgstr "Групувати за"
+
+msgid "Create your first custom template"
+msgstr "Створіть свій перший кастомний шаблон"
+
+msgid "Supported documents:"
+msgstr "Підтримувані документи:"
+
+msgid "Template types:"
+msgstr "Типи шаблонів:"
+
+msgid "Print Custom"
+msgstr "Друк за шаблоном"
+
+msgid "Standard (default template)"
+msgstr "Стандартний (типовий шаблон)"
+
+msgid "Available variables:"
+msgstr "Доступні змінні:"
+
+msgid "Model check example:"
+msgstr "Приклад перевірки моделі:"
+
+msgid "ODT template instructions:"
+msgstr "Інструкція для ODT-шаблонів:"
+
+msgid "Upload the ODT template file"
+msgstr "Завантажте файл ODT-шаблону"
+
+msgid "Use py3o variables in the template:"
+msgstr "Використовуйте py3o-змінні в шаблоні:"
+
+msgid "For sale.order:"
+msgstr "Для sale.order:"
+
+msgid "For account.move:"
+msgstr "Для account.move:"
+
+msgid "Amount to text function:"
+msgstr "Функція конвертації суми в текст:"

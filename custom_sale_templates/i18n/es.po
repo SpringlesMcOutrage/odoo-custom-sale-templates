@@ -1,0 +1,125 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# * custom_sale_templates
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-21 00:00+0000\n"
+"PO-Revision-Date: 2026-05-21 00:00+0000\n"
+"Last-Translator: deep <>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Template Name"
+msgstr "Nombre de plantilla"
+
+msgid "Quotation / Sale Order"
+msgstr "Presupuesto / Pedido de venta"
+
+msgid "Invoice"
+msgstr "Factura"
+
+msgid "Model"
+msgstr "Modelo"
+
+msgid "Template Type"
+msgstr "Tipo de plantilla"
+
+msgid "QWeb Code"
+msgstr "Código QWeb"
+
+msgid "ODT File"
+msgstr "Archivo ODT"
+
+msgid "ODT Filename"
+msgstr "Nombre del archivo ODT"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Custom Template"
+msgstr "Plantilla personalizada"
+
+msgid "Select a custom template for printing"
+msgstr "Seleccione una plantilla personalizada para imprimir"
+
+msgid "Select a custom template for printing the invoice"
+msgstr "Seleccione una plantilla personalizada para imprimir la factura"
+
+msgid "ODT template is not configured correctly"
+msgstr "La plantilla ODT no está configurada correctamente"
+
+msgid "Custom Templates"
+msgstr "Plantillas personalizadas"
+
+msgid "Custom Template (QWeb)"
+msgstr "Plantilla personalizada (QWeb)"
+
+msgid "Custom Invoice (QWeb)"
+msgstr "Factura personalizada (QWeb)"
+
+msgid "Search Templates"
+msgstr "Buscar plantillas"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Orders"
+msgstr "Pedidos"
+
+msgid "Invoices"
+msgstr "Facturas"
+
+msgid "Archived"
+msgstr "Archivado"
+
+msgid "Group By"
+msgstr "Agrupar por"
+
+msgid "Create your first custom template"
+msgstr "Cree su primera plantilla personalizada"
+
+msgid "Supported documents:"
+msgstr "Documentos compatibles:"
+
+msgid "Template types:"
+msgstr "Tipos de plantilla:"
+
+msgid "Print Custom"
+msgstr "Imprimir personalizado"
+
+msgid "Standard (default template)"
+msgstr "Estándar (plantilla por defecto)"
+
+msgid "Available variables:"
+msgstr "Variables disponibles:"
+
+msgid "Model check example:"
+msgstr "Ejemplo de verificación de modelo:"
+
+msgid "ODT template instructions:"
+msgstr "Instrucciones para plantillas ODT:"
+
+msgid "Upload the ODT template file"
+msgstr "Suba el archivo de plantilla ODT"
+
+msgid "Use py3o variables in the template:"
+msgstr "Use variables py3o en la plantilla:"
+
+msgid "For sale.order:"
+msgstr "Para sale.order:"
+
+msgid "For account.move:"
+msgstr "Para account.move:"
+
+msgid "Amount to text function:"
+msgstr "Función de importe a texto:"
